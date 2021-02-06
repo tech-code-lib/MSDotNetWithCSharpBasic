@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\bin\Debug\CollectionsInCsharp.exe.config
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\bin\Debug\CollectionsInCsharp.exe
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\bin\Debug\CollectionsInCsharp.pdb
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\obj\Debug\CollectionsInCsharp.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\obj\Debug\CollectionsInCsharp.exe
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\obj\Debug\CollectionsInCsharp.pdb
+C:\MSNetCSharpBasicCourse\CollectionsInCsharp\obj\Debug\CollectionsInCsharp.csprojAssemblyReference.cache

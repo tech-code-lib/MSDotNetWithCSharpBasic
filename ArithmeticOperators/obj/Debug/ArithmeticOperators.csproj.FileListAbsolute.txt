@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe.config
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\bin\Debug\ArithmeticOperators.pdb
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\obj\Debug\ArithmeticOperators.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\obj\Debug\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\obj\Debug\ArithmeticOperators.exe
+C:\MSNetCSharpBasicCourse\ArithmeticOperators\obj\Debug\ArithmeticOperators.pdb

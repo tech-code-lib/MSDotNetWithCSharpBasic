@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\AClassInCSharp\bin\Debug\AClassInCSharp.exe.config
+C:\MSNetCSharpBasicCourse\AClassInCSharp\bin\Debug\AClassInCSharp.exe
+C:\MSNetCSharpBasicCourse\AClassInCSharp\bin\Debug\AClassInCSharp.pdb
+C:\MSNetCSharpBasicCourse\AClassInCSharp\obj\Debug\AClassInCSharp.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\AClassInCSharp\obj\Debug\AClassInCSharp.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\AClassInCSharp\obj\Debug\AClassInCSharp.exe
+C:\MSNetCSharpBasicCourse\AClassInCSharp\obj\Debug\AClassInCSharp.pdb

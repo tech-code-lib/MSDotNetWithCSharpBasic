@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\bin\Debug\DataTypesAndVariablesDemo.exe.config
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\bin\Debug\DataTypesAndVariablesDemo.exe
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\bin\Debug\DataTypesAndVariablesDemo.pdb
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\obj\Debug\DataTypesAndVariablesDemo.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\obj\Debug\DataTypesAndVariablesDemo.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\obj\Debug\DataTypesAndVariablesDemo.exe
+C:\MSNetCSharpBasicCourse\DataTypesAndVariablesDemo\obj\Debug\DataTypesAndVariablesDemo.pdb

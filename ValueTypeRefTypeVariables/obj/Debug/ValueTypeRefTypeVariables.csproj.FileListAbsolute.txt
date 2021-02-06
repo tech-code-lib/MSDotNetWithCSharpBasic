@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\bin\Debug\ValueTypeRefTypeVariables.exe.config
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\bin\Debug\ValueTypeRefTypeVariables.exe
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\bin\Debug\ValueTypeRefTypeVariables.pdb
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\obj\Debug\ValueTypeRefTypeVariables.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\obj\Debug\ValueTypeRefTypeVariables.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\obj\Debug\ValueTypeRefTypeVariables.exe
+C:\MSNetCSharpBasicCourse\ValueTypeRefTypeVariables\obj\Debug\ValueTypeRefTypeVariables.pdb

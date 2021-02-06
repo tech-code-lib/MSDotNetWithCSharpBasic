@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\StringsInCSharp\bin\Debug\StringsInCSharp.exe.config
+C:\MSNetCSharpBasicCourse\StringsInCSharp\bin\Debug\StringsInCSharp.exe
+C:\MSNetCSharpBasicCourse\StringsInCSharp\bin\Debug\StringsInCSharp.pdb
+C:\MSNetCSharpBasicCourse\StringsInCSharp\obj\Debug\StringsInCSharp.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\StringsInCSharp\obj\Debug\StringsInCSharp.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\StringsInCSharp\obj\Debug\StringsInCSharp.exe
+C:\MSNetCSharpBasicCourse\StringsInCSharp\obj\Debug\StringsInCSharp.pdb

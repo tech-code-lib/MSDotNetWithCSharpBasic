@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\MSNetCSharpBasicCourse\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\MSNetCSharpBasicCourse\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\MSNetCSharpBasicCourse\ConditionalStatements\obj\Debug\ConditionalStatements.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\MSNetCSharpBasicCourse\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

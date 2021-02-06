@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\ComplexType\obj\Debug\ComplexType.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\ComplexType\obj\Debug\ComplexType.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\ComplexType\bin\Debug\ComplexType.exe.config
+C:\MSNetCSharpBasicCourse\ComplexType\bin\Debug\ComplexType.exe
+C:\MSNetCSharpBasicCourse\ComplexType\bin\Debug\ComplexType.pdb
+C:\MSNetCSharpBasicCourse\ComplexType\obj\Debug\ComplexType.exe
+C:\MSNetCSharpBasicCourse\ComplexType\obj\Debug\ComplexType.pdb

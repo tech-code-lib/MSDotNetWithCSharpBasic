@@ -1,0 +1,7 @@
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\bin\Debug\LoopsInCSharp.exe.config
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\bin\Debug\LoopsInCSharp.exe
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\bin\Debug\LoopsInCSharp.pdb
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\obj\Debug\LoopsInCSharp.csprojAssemblyReference.cache
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\obj\Debug\LoopsInCSharp.csproj.CoreCompileInputs.cache
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\obj\Debug\LoopsInCSharp.exe
+C:\MSNetCSharpBasicCourse\LoopsInCSharp\obj\Debug\LoopsInCSharp.pdb
